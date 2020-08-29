@@ -1,0 +1,16 @@
+{
+  "autoload": {
+    "psr-4": {
+      "ishop\\": "vendor/ishop/core",
+      "app\\": "app"
+    }
+  },
+
+  "require": {
+    "gabordemooij/redbean": "v5.4",
+    "vlucas/valitron": "1.1.7",
+    "swiftmailer/swiftmailer": "^5.4",
+    "phpoffice/phpspreadsheet": "1.10.1",
+    "phpmailer/phpmailer": "v6.1.4"
+  }
+}
